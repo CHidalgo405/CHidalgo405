@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/carlos-hidalgo-hernandez-48b159235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://tu-portafolio.com"><img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Website" /></a>
 </p>
 
@@ -24,7 +24,7 @@ Soy un Ingeniero de Software con experiencia comprobable en el ciclo completo de
 
 * 🔭 Actualmente trabajando en: **[Vocaciones STEAM](https://vocaciones-steam-landing.vercel.app)** — Una plataforma inteligente de orientación vocacional interactiva y basada en datos.
 * 🌱 Actualmente aprendiendo/profundizando en: **Diseño y entrenamiento de algoritmos complejos a partir de grandes volúmenes de datos (Datasets)**.
-* ⚡ Dato curioso: **Tengo la firme sospecha de que mi patito de goma ya programa mejor que yo de tanto escucharme explicarle bugs a las 2 de la mañana.**
+* ⚡ Dato curioso: **Diseñar una interfaz responsiva que se vea perfecta en todos los teléfonos móviles es el equivalente en desarrollo a intentar meter un elefante en una maleta de mano.**
 
 ---
 
