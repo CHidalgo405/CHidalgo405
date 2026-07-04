@@ -22,9 +22,9 @@
 
 Soy un Ingeniero de Software con experiencia comprobable en el ciclo completo de desarrollo. Me apasiona construir arquitecturas robustas y aplicaciones que integren **APIs, Inteligencia Artificial y Bases de Datos Complejas**. 
 
-* 🔭 Actualmente trabajando en: **[Nombre de tu proyecto actual, ej: Una plataforma SaaS impulsada por IA]**
-* 🌱 Actualmente aprendiendo/profundizando en: **[Algo nuevo, ej: Arquitecturas Cloud o Microservicios]**
-* ⚡ Dato curioso: **[Pon algo interesante, ej: Puedo configurar un router de Cisco con los ojos cerrados mientras compilo el kernel de Linux]**
+* 🔭 Actualmente trabajando en: **[Vocaciones STEAM](https://pwa-vocaciones-steam.vercel.app/)** — Una plataforma inteligente de orientación vocacional interactiva y basada en datos.
+* 🌱 Actualmente aprendiendo/profundizando en: **Arquitectura de Microservicios, Integración de Inteligencia Artificial y Optimización de PWAs**.
+* ⚡ Dato curioso: **Puedo configurar redes Cisco y optimizar consultas complejas en bases de datos mientras debugeo el frontend con música lofi de fondo.**
 
 ---
 
@@ -65,33 +65,27 @@ Como ingeniero, entiendo que el código no vive en el vacío. Mis conocimientos 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="./ruta/a/tu/imagen/ccna.png" width="150" alt="CCNA"/><br><b>CCNA: Switching, Routing <br> & Wireless Essentials</b></td>
-      <td align="center"><img src="./ruta/a/tu/imagen/cybersecurity.png" width="150" alt="Cybersecurity"/><br><b>Introduction to <br> Cybersecurity</b></td>
-      <td align="center"><img src="./ruta/a/tu/imagen/ai.png" width="150" alt="Modern AI"/><br><b>Introduction to <br> Modern AI</b></td>
+      <td align="center"><img src="./assets/7e76a6af-48b7-40d8-8573-9e8c99bc1daa.png" width="150" alt="CCNA"/><br><b>CCNA: Switching, Routing <br> & Wireless Essentials</b></td>
+      <td align="center"><img src="./assets/introduction_to_cybersecurity_16.png" width="150" alt="Cybersecurity"/><br><b>Introduction to <br> Cybersecurity</b></td>
+      <td align="center"><img src="./assets/cb15538f-9d14-4957-8555-e7f25cec2627.png" width="150" alt="Modern AI"/><br><b>Introduction to <br> Modern AI</b></td>
     </tr>
   </table>
 </div>
-
-*(Nota: Recuerda subir tus insignias a la carpeta de tu repositorio y actualizar las rutas `./ruta/a/tu/imagen/...`)*
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-* **[Nombre de tu Proyecto 1]** - *[Breve descripción, ej: Plataforma Full-Stack desarrollada en Angular y C# que integra una IA para procesar datos.]* - [Ver Código/Demo](#)
-* **[Nombre de tu Proyecto 2]** - *[Breve descripción, ej: App móvil híbrida construida con Ionic y conectada a MongoDB mediante una API REST en Python.]* - [Ver Código/Demo](#)
-* **[Nombre de tu Proyecto 3]** - *[Breve descripción, ej: Sistema de gestión de bases de datos relacionales usando PostgreSQL y Java.]* - [Ver Código/Demo](#)
+* **🚀 Vocaciones STEAM (Aplicación Principal)** — *PWA interactiva de orientación vocacional inteligente. Utiliza algoritmos de precisión para identificar fortalezas en disciplinas STEAM, geolocaliza recomendaciones de universidades locales y ofrece simuladores de carrera interactivos para vivir la experiencia real del día a día profesional.* — [Ver Demo (PWA)](https://pwa-vocaciones-steam.vercel.app/) / [Landing Page](https://vocaciones-steam-landing.vercel.app)
+* **🌐 Vocaciones STEAM Landing Page** — *Página de aterrizaje optimizada, con un diseño UX/UI premium, animaciones fluidas y SEO estratégico para la captación y presentación del proyecto Vocaciones STEAM.* — [Visitar Landing Page](https://vocaciones-steam-landing.vercel.app)
+* **🛠️ Más Proyectos en Desarrollo** — *Explora mis repositorios para conocer implementaciones de APIs RESTful robustas, arquitecturas de bases de datos escalables y soluciones con IA.* — [Ver Repositorios](https://github.com/CHidalgo405?tab=repositories)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=CHidalgo405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHidalgo405&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHidalgo405&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
