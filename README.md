@@ -22,9 +22,9 @@
 
 Soy un Ingeniero de Software con experiencia comprobable en el ciclo completo de desarrollo. Me apasiona construir arquitecturas robustas y aplicaciones que integren **APIs, Inteligencia Artificial y Bases de Datos Complejas**. 
 
-* 🔭 Actualmente trabajando en: **[Vocaciones STEAM](https://pwa-vocaciones-steam.vercel.app/)** — Una plataforma inteligente de orientación vocacional interactiva y basada en datos.
-* 🌱 Actualmente aprendiendo/profundizando en: **Arquitectura de Microservicios, Integración de Inteligencia Artificial y Optimización de PWAs**.
-* ⚡ Dato curioso: **Puedo configurar redes Cisco y optimizar consultas complejas en bases de datos mientras debugeo el frontend con música lofi de fondo.**
+* 🔭 Actualmente trabajando en: **[Vocaciones STEAM](https://vocaciones-steam-landing.vercel.app)** — Una plataforma inteligente de orientación vocacional interactiva y basada en datos.
+* 🌱 Actualmente aprendiendo/profundizando en: **Diseño y entrenamiento de algoritmos complejos a partir de grandes volúmenes de datos (Datasets)**.
+* ⚡ Dato curioso: **Tengo la firme sospecha de que mi patito de goma ya programa mejor que yo de tanto escucharme explicarle bugs a las 2 de la mañana.**
 
 ---
 
